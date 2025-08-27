@@ -188,3 +188,4 @@ class Seq2Seq(nn.Module):
                 
         return outputs
     # INI JUGA RNN
+    # gabisaaaa
