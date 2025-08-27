@@ -160,7 +160,7 @@ def validate_epoch(model, data_loader, criterion, device, config, pad_id):
             total_loss += loss.item()
     
     return total_loss / len(data_loader)
-
+# gataula pusing
 if __name__ == "__main__":
     # Konfigurasi training
     transformer_config = {
