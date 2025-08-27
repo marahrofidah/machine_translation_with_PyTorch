@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+torchtext>=0.15.0
+sentencepiece>=0.1.99
+sacrebleu>=2.3.0
+sacremoses>=0.0.53
+tqdm>=4.65.0
+pandas>=1.5.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tensorboard>=2.13.0

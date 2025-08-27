@@ -1,0 +1,8 @@
+# Abaikan folder dan file hasil training
+models/
+outputs/
+runs/
+
+# Abaikan cache python
+__pycache__/
+*.pyc
