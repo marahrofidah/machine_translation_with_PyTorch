@@ -187,3 +187,4 @@ class Seq2Seq(nn.Module):
                 dec_input = dec_output.argmax(1)
                 
         return outputs
+    # INI JUGA RNN
